@@ -1,0 +1,842 @@
+[
+  {
+    "hour": "12am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "1am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "2am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "3am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "4am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "5am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "6am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "7am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "8am",
+    "weekday": "Mon",
+    "value": 288.6782071
+  },
+  {
+    "hour": "9am",
+    "weekday": "Mon",
+    "value": 230.2117347
+  },
+  {
+    "hour": "10am",
+    "weekday": "Mon",
+    "value": 244.8283528
+  },
+  {
+    "hour": "11am",
+    "weekday": "Mon",
+    "value": 197.324344
+  },
+  {
+    "hour": "12pm",
+    "weekday": "Mon",
+    "value": 191.1122813
+  },
+  {
+    "hour": "1pm",
+    "weekday": "Mon",
+    "value": 209.383054
+  },
+  {
+    "hour": "2pm",
+    "weekday": "Mon",
+    "value": 252.1366618
+  },
+  {
+    "hour": "3pm",
+    "weekday": "Mon",
+    "value": 270.4074344
+  },
+  {
+    "hour": "4pm",
+    "weekday": "Mon",
+    "value": 332.5280613
+  },
+  {
+    "hour": "5pm",
+    "weekday": "Mon",
+    "value": 237.5200438
+  },
+  {
+    "hour": "6pm",
+    "weekday": "Mon",
+    "value": 18.18181818
+  },
+  {
+    "hour": "7pm",
+    "weekday": "Mon",
+    "value": 7.272727273
+  },
+  {
+    "hour": "8pm",
+    "weekday": "Mon",
+    "value": 0.909090909
+  },
+  {
+    "hour": "9pm",
+    "weekday": "Mon",
+    "value": 20
+  },
+  {
+    "hour": "10pm",
+    "weekday": "Mon",
+    "value": 8
+  },
+  {
+    "hour": "11pm",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "12am",
+    "weekday": "Tues",
+    "value": 1
+  },
+  {
+    "hour": "1am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "2am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "3am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "4am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "5am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "6am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "7am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "8am",
+    "weekday": "Tues",
+    "value": 255.1109737
+  },
+  {
+    "hour": "9am",
+    "weekday": "Tues",
+    "value": 203.4429284
+  },
+  {
+    "hour": "10am",
+    "weekday": "Tues",
+    "value": 216.3599397
+  },
+  {
+    "hour": "11am",
+    "weekday": "Tues",
+    "value": 174.3796529
+  },
+  {
+    "hour": "12pm",
+    "weekday": "Tues",
+    "value": 168.889923
+  },
+  {
+    "hour": "1pm",
+    "weekday": "Tues",
+    "value": 185.0361872
+  },
+  {
+    "hour": "2pm",
+    "weekday": "Tues",
+    "value": 222.8184453
+  },
+  {
+    "hour": "3pm",
+    "weekday": "Tues",
+    "value": 238.9647095
+  },
+  {
+    "hour": "4pm",
+    "weekday": "Tues",
+    "value": 293.8620076
+  },
+  {
+    "hour": "5pm",
+    "weekday": "Tues",
+    "value": 209.901434
+  },
+  {
+    "hour": "6pm",
+    "weekday": "Tues",
+    "value": 161.4626416
+  },
+  {
+    "hour": "7pm",
+    "weekday": "Tues",
+    "value": 96.87758492
+  },
+  {
+    "hour": "8pm",
+    "weekday": "Tues",
+    "value": 64.58505662
+  },
+  {
+    "hour": "9pm",
+    "weekday": "Tues",
+    "value": 6.798427013
+  },
+  {
+    "hour": "10pm",
+    "weekday": "Tues",
+    "value": 0.909090909
+  },
+  {
+    "hour": "11pm",
+    "weekday": "Tues",
+    "value": 0.909090909
+  },
+  {
+    "hour": "12am",
+    "weekday": "Wed",
+    "value": 0.909090909
+  },
+  {
+    "hour": "1am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "2am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "3am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "4am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "5am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "6am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "7am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "8am",
+    "weekday": "Wed",
+    "value": 537.075734
+  },
+  {
+    "hour": "9am",
+    "weekday": "Wed",
+    "value": 428.3009018
+  },
+  {
+    "hour": "10am",
+    "weekday": "Wed",
+    "value": 455.4946098
+  },
+  {
+    "hour": "11am",
+    "weekday": "Wed",
+    "value": 367.1150587
+  },
+  {
+    "hour": "12pm",
+    "weekday": "Wed",
+    "value": 355.5577328
+  },
+  {
+    "hour": "1pm",
+    "weekday": "Wed",
+    "value": 389.5498678
+  },
+  {
+    "hour": "2pm",
+    "weekday": "Wed",
+    "value": 469.0914639
+  },
+  {
+    "hour": "3pm",
+    "weekday": "Wed",
+    "value": 503.0835989
+  },
+  {
+    "hour": "4pm",
+    "weekday": "Wed",
+    "value": 618.6568582
+  },
+  {
+    "hour": "5pm",
+    "weekday": "Wed",
+    "value": 441.8977558
+  },
+  {
+    "hour": "6pm",
+    "weekday": "Wed",
+    "value": 339.9213507
+  },
+  {
+    "hour": "7pm",
+    "weekday": "Wed",
+    "value": 203.9528104
+  },
+  {
+    "hour": "8pm",
+    "weekday": "Wed",
+    "value": 135.9685402
+  },
+  {
+    "hour": "9pm",
+    "weekday": "Wed",
+    "value": 9.347837144
+  },
+  {
+    "hour": "10pm",
+    "weekday": "Wed",
+    "value": 0.909090909
+  },
+  {
+    "hour": "11pm",
+    "weekday": "Wed",
+    "value": 0.909090909
+  },
+  {
+    "hour": "12am",
+    "weekday": "Thur",
+    "value": 0.909090909
+  },
+  {
+    "hour": "1am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "2am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "3am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "4am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "5am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "6am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "7am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "8am",
+    "weekday": "Thur",
+    "value": 738.4791343
+  },
+  {
+    "hour": "9am",
+    "weekday": "Thur",
+    "value": 588.91374
+  },
+  {
+    "hour": "10am",
+    "weekday": "Thur",
+    "value": 626.3050886
+  },
+  {
+    "hour": "11am",
+    "weekday": "Thur",
+    "value": 504.7832057
+  },
+  {
+    "hour": "12pm",
+    "weekday": "Thur",
+    "value": 488.8918826
+  },
+  {
+    "hour": "1pm",
+    "weekday": "Thur",
+    "value": 535.6310683
+  },
+  {
+    "hour": "2pm",
+    "weekday": "Thur",
+    "value": 645.0007629
+  },
+  {
+    "hour": "3pm",
+    "weekday": "Thur",
+    "value": 691.7399486
+  },
+  {
+    "hour": "4pm",
+    "weekday": "Thur",
+    "value": 850.65318
+  },
+  {
+    "hour": "5pm",
+    "weekday": "Thur",
+    "value": 607.6094143
+  },
+  {
+    "hour": "6pm",
+    "weekday": "Thur",
+    "value": 467.3918571
+  },
+  {
+    "hour": "7pm",
+    "weekday": "Thur",
+    "value": 280.4351143
+  },
+  {
+    "hour": "8pm",
+    "weekday": "Thur",
+    "value": 186.9567429
+  },
+  {
+    "hour": "9pm",
+    "weekday": "Thur",
+    "value": 11.04744389
+  },
+  {
+    "hour": "10pm",
+    "weekday": "Thur",
+    "value": 0.909090909
+  },
+  {
+    "hour": "11pm",
+    "weekday": "Thur",
+    "value": 0.909090909
+  },
+  {
+    "hour": "12am",
+    "weekday": "Fri",
+    "value": 0.909090909
+  },
+  {
+    "hour": "1am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "2am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "3am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "4am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "5am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "6am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "7am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "8am",
+    "weekday": "Fri",
+    "value": 872.7480675
+  },
+  {
+    "hour": "9am",
+    "weekday": "Fri",
+    "value": 695.9889655
+  },
+  {
+    "hour": "10am",
+    "weekday": "Fri",
+    "value": 740.1787411
+  },
+  {
+    "hour": "11am",
+    "weekday": "Fri",
+    "value": 596.5619704
+  },
+  {
+    "hour": "12pm",
+    "weekday": "Fri",
+    "value": 577.7813158
+  },
+  {
+    "hour": "1pm",
+    "weekday": "Fri",
+    "value": 633.0185353
+  },
+  {
+    "hour": "2pm",
+    "weekday": "Fri",
+    "value": 762.2736289
+  },
+  {
+    "hour": "3pm",
+    "weekday": "Fri",
+    "value": 817.5108483
+  },
+  {
+    "hour": "4pm",
+    "weekday": "Fri",
+    "value": 1005.317395
+  },
+  {
+    "hour": "5pm",
+    "weekday": "Fri",
+    "value": 718.0838533
+  },
+  {
+    "hour": "6pm",
+    "weekday": "Fri",
+    "value": 552.3721948
+  },
+  {
+    "hour": "7pm",
+    "weekday": "Fri",
+    "value": 331.4233169
+  },
+  {
+    "hour": "8pm",
+    "weekday": "Fri",
+    "value": 220.948878
+  },
+  {
+    "hour": "9pm",
+    "weekday": "Fri",
+    "value": 5.09882026
+  },
+  {
+    "hour": "10pm",
+    "weekday": "Fri",
+    "value": 0.909090909
+  },
+  {
+    "hour": "11pm",
+    "weekday": "Fri",
+    "value": 0.909090909
+  },
+  {
+    "hour": "12am",
+    "weekday": "Sat",
+    "value": 0.909090909
+  },
+  {
+    "hour": "1am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "2am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "3am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "4am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "5am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "6am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "7am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "8am",
+    "weekday": "Sat",
+    "value": 402.8068005
+  },
+  {
+    "hour": "9am",
+    "weekday": "Sat",
+    "value": 321.2256764
+  },
+  {
+    "hour": "10am",
+    "weekday": "Sat",
+    "value": 341.6209574
+  },
+  {
+    "hour": "11am",
+    "weekday": "Sat",
+    "value": 275.336294
+  },
+  {
+    "hour": "12pm",
+    "weekday": "Sat",
+    "value": 266.6682996
+  },
+  {
+    "hour": "1pm",
+    "weekday": "Sat",
+    "value": 292.1624009
+  },
+  {
+    "hour": "2pm",
+    "weekday": "Sat",
+    "value": 351.818598
+  },
+  {
+    "hour": "3pm",
+    "weekday": "Sat",
+    "value": 377.3126992
+  },
+  {
+    "hour": "4pm",
+    "weekday": "Sat",
+    "value": 463.9926436
+  },
+  {
+    "hour": "5pm",
+    "weekday": "Sat",
+    "value": 331.4233169
+  },
+  {
+    "hour": "6pm",
+    "weekday": "Sat",
+    "value": 254.941013
+  },
+  {
+    "hour": "7pm",
+    "weekday": "Sat",
+    "value": 152.9646078
+  },
+  {
+    "hour": "8pm",
+    "weekday": "Sat",
+    "value": 101.9764052
+  },
+  {
+    "hour": "9pm",
+    "weekday": "Sat",
+    "value": 2.003746909
+  },
+  {
+    "hour": "10pm",
+    "weekday": "Sat",
+    "value": 0.909090909
+  },
+  {
+    "hour": "11pm",
+    "weekday": "Sat",
+    "value": 0.909090909
+  },
+  {
+    "hour": "12am",
+    "weekday": "Sun",
+    "value": 0.909090909
+  },
+  {
+    "hour": "1am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "2am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "3am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "4am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "5am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "6am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "7am",
+    "weekday": "Mon",
+    "value": 1
+  },
+  {
+    "hour": "8am",
+    "weekday": "Sun",
+    "value": 158.2960058
+  },
+  {
+    "hour": "9am",
+    "weekday": "Sun",
+    "value": 126.2360553
+  },
+  {
+    "hour": "10am",
+    "weekday": "Sun",
+    "value": 134.2510429
+  },
+  {
+    "hour": "11am",
+    "weekday": "Sun",
+    "value": 108.2023331
+  },
+  {
+    "hour": "12pm",
+    "weekday": "Sun",
+    "value": 104.7959633
+  },
+  {
+    "hour": "1pm",
+    "weekday": "Sun",
+    "value": 114.8146979
+  },
+  {
+    "hour": "2pm",
+    "weekday": "Sun",
+    "value": 138.2585367
+  },
+  {
+    "hour": "3pm",
+    "weekday": "Sun",
+    "value": 148.2772713
+  },
+  {
+    "hour": "4pm",
+    "weekday": "Sun",
+    "value": 182.3409687
+  },
+  {
+    "hour": "5pm",
+    "weekday": "Sun",
+    "value": 130.2435491
+  },
+  {
+    "hour": "6pm",
+    "weekday": "Sun",
+    "value": 100.1873454
+  },
+  {
+    "hour": "7pm",
+    "weekday": "Sun",
+    "value": 60.11240729
+  },
+  {
+    "hour": "8pm",
+    "weekday": "Sun",
+    "value": 40.07493818
+  },
+  {
+    "hour": "9pm",
+    "weekday": "Sun",
+    "value": 0.909090909
+  },
+  {
+    "hour": "10pm",
+    "weekday": "Sun",
+    "value": 0.909090909
+  },
+  {
+    "hour": "11pm",
+    "weekday": "Sun",
+    "value": 0.909090909
+  }
+]
